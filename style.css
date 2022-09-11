@@ -381,11 +381,14 @@ header {
         font-size: 1.4rem;
     }
     .cta {
-        position:relative;
-        bottom:3rem
         margin-top: .7rem;
     }
     .cta-link {
         font-size: 1.9rem;
     }
+    .cta-b {
+        position: relative;
+        bottom: 3rem;
+    }
+    
 }
